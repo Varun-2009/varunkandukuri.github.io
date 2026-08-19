@@ -28,4 +28,16 @@ python train.py --data-dir data --epochs 20 --output-dir artifacts
 ```
 
 The pipeline saves the best Keras model and training history. Validate external datasets, consent, licensing, and bias before any research use.
+## Architecture
 
+```mermaid
+flowchart LR
+    I[MRI Images] --> P[Resize and Augment]
+    P --> M[CNN Classifier]
+    M --> E[Validation Metrics]
+    E --> A[Versioned Model Artifact]
+```
+
+## Research outcome
+
+The related graduate research reported 98.37% accuracy on its study dataset. This repository is a reproducible engineering scaffold; results must be independently reproduced and clinically validated before use.
