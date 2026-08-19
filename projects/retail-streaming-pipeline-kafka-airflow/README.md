@@ -20,4 +20,16 @@ python consumer.py --kafka --database output/retail.db
 ```
 
 The same event contract is used in both modes, which keeps local testing aligned with streaming deployment.
+## Architecture
 
+```mermaid
+flowchart LR
+    P[Event Producer] --> K[Kafka or JSONL]
+    K --> V[Validate and Deduplicate]
+    V --> S[SQLite Curated Store]
+    S --> M[Product Metrics View]
+```
+
+## Demo result
+
+The automated test confirms schema validation, rejection handling, and idempotent deduplication. Local mode runs without Kafka; Docker mode exercises the same event contract through Kafka.
