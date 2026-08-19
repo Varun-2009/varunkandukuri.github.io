@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an AI/ML Data Engineer with 4+ years of experience building scalable data pipelines across healthcare, finance, and retail. I specialize in Python, PySpark, Databricks, and Snowflake, with hands-on exposure to LLM applications, RAG, and production ML workflows. I enjoy turning messy, large-scale data into reliable, model-ready datasets that power analytics and AI. Based in Cleveland, OH.
+I'm an AI/ML Data Engineer with 5+ years of experience building scalable data pipelines across healthcare, finance, and retail. I specialize in Python, PySpark, Databricks, and Snowflake, with hands-on exposure to LLM applications, RAG, and production ML workflows. I enjoy turning messy, large-scale data into reliable, model-ready datasets that power analytics and AI. Based in Cleveland, OH.
 
 ---
 
@@ -86,12 +86,13 @@ Built batch and streaming pipelines (Kafka, Airflow, Spark) for retail analytics
 - Databricks Certified Data Engineer Associate
 - Microsoft Azure Data Engineer Associate – DP-203
 - Snowflake SnowPro Core Certification
+- Databricks Generative AI Certification
 
 ---
 
 ## 📄 Resume
 
-[📥 Download my Resume (PDF)](https://github.com/varunkandukuri/Resume/blob/main/Varun_Kandukuri_Resume.pdf)
+[📥 Download my Resume (PDF)](https://github.com/Varun-2009/Resume/blob/main/Varun_Kandukuri_Resume.pdf)
 
 ---
 
@@ -99,4 +100,4 @@ Built batch and streaming pipelines (Kafka, Airflow, Spark) for retail analytics
 
 - **Email:** kvarunkandukuri9@gmail.com
 - **LinkedIn:** [linkedin.com/in/varun-kumar-kandukuri-3785932b9](https://www.linkedin.com/in/varun-kumar-kandukuri-3785932b9/)
-- **Portfolio:** [varunkandukuri.github.io](https://varunkandukuri.github.io)Personal portfolio site  AI/ML Data Engineer specializing in Python, PySpark, Databricks, and Snowflake. Built with HTML/CSS.
+- **Portfolio:** [varunkandukuri.github.io](https://varun-2009.github.io/varunkandukuri.github.io/)Personal portfolio site  AI/ML Data Engineer specializing in Python, PySpark, Databricks, and Snowflake. Built with HTML/CSS.
