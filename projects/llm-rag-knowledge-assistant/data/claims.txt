@@ -1,0 +1,2 @@
+Healthcare claims are validated for member identifiers, service dates, diagnosis codes, procedure codes, provider identifiers, and allowed amounts before downstream adjudication. Invalid records are quarantined with a reason code for investigation.
+

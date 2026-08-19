@@ -1,0 +1,2 @@
+Protected health information is encrypted in transit and at rest. Access follows least-privilege role-based controls. Sensitive fields are masked in non-production environments, and audit logs record access to regulated datasets.
+
