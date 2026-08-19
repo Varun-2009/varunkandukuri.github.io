@@ -27,4 +27,16 @@ Open `http://127.0.0.1:8000/docs` and call `POST /ask` with:
 ## Design
 
 Documents are chunked, vectorized, ranked, and filtered by a confidence threshold. If retrieval evidence is weak, the service abstains instead of inventing an answer. Replace `compose_answer` with Bedrock, GPT, or Llama for a production LLM implementation.
+## Architecture
 
+```mermaid
+flowchart LR
+    Q[Question] --> V[TF-IDF Vectorizer]
+    V --> R[Cosine Retrieval]
+    R --> G[Grounded Response]
+    G --> C[Citations or Abstention]
+```
+
+## Demo result
+
+The included corpus supports deterministic retrieval, source citations, and threshold-based abstention. Production impact must be measured after connecting an approved document set and LLM.
