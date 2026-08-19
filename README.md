@@ -75,6 +75,7 @@ Built batch and streaming pipelines (Kafka, Airflow, Spark) for retail analytics
 | **Healthcare Data Quality & ML-Ready Datasets** | Validation and reconciliation workflows to identify missing/duplicate records and prepare analytics-ready healthcare datasets | SQL, dbt, Snowflake, PySpark | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/healthcare-data-quality-pipeline) |
 | **Alzheimer's MRI Diagnosis Research** | Graduate research project applying deep learning to MRI scan data for diagnostic decision-support | Python, Deep Learning, Image Preprocessing | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/alzheimers-mri-diagnosis-cnn) |
 | **Retail Streaming Data Pipeline** | Batch and streaming pipelines for retail analytics with automated ingestion and monitoring | Kafka, Airflow, PySpark, Snowflake | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/retail-streaming-pipeline-kafka-airflow) |
+| **AI Diabetes Risk Dashboard** | Synthetic-data ML dashboard with imbalance handling, leakage-safe preprocessing, threshold tuning, explainability, and monitoring | Streamlit, Scikit-learn, Plotly | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/ai-diabetes-risk-dashboard) |
 
 
 ---
