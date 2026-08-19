@@ -71,12 +71,11 @@ Built batch and streaming pipelines (Kafka, Airflow, Spark) for retail analytics
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **LLM & RAG-Based Knowledge Assistant** | Proof-of-concept AI assistant using retrieval-augmented generation to answer domain-specific questions from structured/unstructured data | LangChain, Vector Search, Prompt Engineering | [Repo](#) |
-| **Healthcare Data Quality & ML-Ready Datasets** | Validation and reconciliation workflows to identify missing/duplicate records and prepare analytics-ready healthcare datasets | SQL, dbt, Snowflake, PySpark | [Repo](#) |
-| **Alzheimer's MRI Diagnosis Research** | Graduate research project applying deep learning to MRI scan data for diagnostic decision-support | Python, Deep Learning, Image Preprocessing | [Repo](#) |
-| **Retail Streaming Data Pipeline** | Batch and streaming pipelines for retail analytics with automated ingestion and monitoring | Kafka, Airflow, PySpark, Snowflake | [Repo](#) |
+| **LLM & RAG-Based Knowledge Assistant** | Proof-of-concept AI assistant using retrieval-augmented generation to answer domain-specific questions from structured/unstructured data | LangChain, Vector Search, Prompt Engineering | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/llm-rag-knowledge-assistant) |
+| **Healthcare Data Quality & ML-Ready Datasets** | Validation and reconciliation workflows to identify missing/duplicate records and prepare analytics-ready healthcare datasets | SQL, dbt, Snowflake, PySpark | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/healthcare-data-quality-pipeline) |
+| **Alzheimer's MRI Diagnosis Research** | Graduate research project applying deep learning to MRI scan data for diagnostic decision-support | Python, Deep Learning, Image Preprocessing | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/alzheimers-mri-diagnosis-cnn) |
+| **Retail Streaming Data Pipeline** | Batch and streaming pipelines for retail analytics with automated ingestion and monitoring | Kafka, Airflow, PySpark, Snowflake | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/retail-streaming-pipeline-kafka-airflow) |
 
-*(Replace `#` with actual repo links once uploaded, and add/remove rows as needed.)*
 
 ---
 
