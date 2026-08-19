@@ -22,3 +22,17 @@ pytest
 - `quality_report.json` — row counts and rule-level failures
 
 The generator creates synthetic records locally. No member-level dataset is stored in this public repository.
+## Architecture
+
+```mermaid
+flowchart LR
+    G[Synthetic Generator] --> V[Validation Rules]
+    V -->|Pass| C[Clean Claims]
+    V -->|Fail| Q[Quarantine]
+    C --> R[Quality Report]
+    Q --> R
+```
+
+## Demo result
+
+The automated test verifies valid/invalid routing and reason-code capture. Run the generator and pipeline to produce reproducible rule-level quality metrics locally.
