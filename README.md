@@ -1,103 +1,57 @@
-# varunkandukuri.github.io
-# Hi, I'm Varun Kumar Kandukuri 👋
+# Connected GitHub portfolio
 
-## 🧑‍💻 About Me
+Repository: https://github.com/Varun-2009/varunkandukuri.github.io
+GitHub profile: https://github.com/Varun-2009
+Expected GitHub Pages URL: https://varun-2009.github.io/varunkandukuri.github.io/
 
-I'm an AI/ML Data Engineer with 5+ years of experience building scalable data pipelines across healthcare, finance, and retail. I specialize in Python, PySpark, Databricks, and Snowflake, with hands-on exposure to LLM applications, RAG, and production ML workflows. I enjoy turning messy, large-scale data into reliable, model-ready datasets that power analytics and AI. Based in Cleveland, OH.
+This repository is a project site because its name differs from `Varun-2009.github.io`. In Settings → Pages, select Deploy from a branch → main → / (root). Relative asset paths support this project URL.
 
----
+# Varun Kumar Kandukuri — Portfolio
 
-## 🛠️ Skills
+A responsive, build-free portfolio for GitHub Pages. Uses the supplied real portrait and resume. No frameworks, external fonts, tracking, or backend required.
 
-**Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
+## Publish with GitHub Pages
 
-**AI / ML / GenAI**
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+1. Extract this package. Create a public GitHub repository named `YOUR-USERNAME.github.io` (replace with your actual username), or use a project repository such as `portfolio`.
+2. Upload **the contents** of `varun-portfolio` to the repository root: `index.html`, `styles.css`, `script.js`, `assets/`, `.nojekyll`, and this README. Do not upload just the zip or leave the website inside an extra folder.
+3. In the repository, open **Settings → Pages**. Select **Deploy from a branch**, choose **main** and **/ (root)**, then **Save**.
+4. Wait for the Pages deployment to finish. Visit `https://YOUR-USERNAME.github.io/`, or `https://YOUR-USERNAME.github.io/portfolio/` for a repository named `portfolio`.
 
-**Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+All site asset URLs are relative, supporting both username and project Pages sites. No build command is needed.
 
-**Big Data & Orchestration**
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+## Personalize before sharing
 
-**Databases**
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+- **GitHub:** connected to https://github.com/Varun-2009 in both script.js and the HTML fallback links.
+- **Email:** the uploaded resume says “Email” but contains no email address or email hyperlink. LinkedIn and the supplied phone number are used for contact. Add a verified `mailto:` link if desired.
+- **Phone:** the resume prints `+216-512-1015` and lists Cleveland, Ohio. The visible site number preserves its digits; the call link uses US format `+12165121015`. Confirm before publishing.
+- **Resume:** the original DOCX is included, linked from both download buttons. To use a PDF, add your verified PDF to `assets/` and update both resume links and the DOCX label in `index.html`.
+- **Lumose:** the featured project includes the two supplied dashboard and sign-in screenshots and descriptions of their visible interface. Navigation labels describe visible screens, not verified functionality. No implementation stack, metrics, clinical outcomes, live demo, or repository URL is claimed. The project remains “In Development.”
+- **Content:** edit `index.html`; colors, spacing, and responsive breakpoints are in `styles.css`.
 
-**Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+## Included files
 
----
+```text
+index.html
+styles.css
+script.js
+.nojekyll
+README.md
+assets/
+  favicon.svg
+  lumose-dashboard.png
+  lumose-signin.png
+  varun-kandukuri.jpeg
+  Varun-Kumar-Kandukuri-Resume.docx
+```
 
-## 💼 Experience Summary
+## Local preview & checks
 
-**AI/ML Data Engineer** — Optum (Eden Prairie, MN / Remote)
-*Dec 2023 – Present*
-Building scalable healthcare data pipelines (Python, PySpark, Databricks, Snowflake, AWS) and preparing model-ready datasets to support AI/ML and analytics workflows.
+Open `index.html` in a browser. If Python is installed, run `python -m http.server 8000` from this folder and visit `http://localhost:8000` for a local server.
 
-**Data Engineer** — HSBC (India)
-*Jul 2022 – Aug 2023*
-Designed ETL pipelines for financial and operational data using SQL, PySpark, Snowflake, and AWS Glue/Redshift.
+Before sharing, check the site on desktop and mobile; test the menu, keyboard navigation, section links, resume download, LinkedIn, GitHub, and phone link. Navigation and content remain usable without JavaScript. Reduced-motion preferences are respected.
 
-**Associate Data Engineer** — LTIMindtree (India)
-*May 2021 – Jun 2022*
-Built batch and streaming pipelines (Kafka, Airflow, Spark) for retail analytics, reducing processing time by 40%.
+## Content sources
 
----
+Experience, education, skills, location, phone digits, and LinkedIn were taken from the supplied `Varunkandukuri_.netdeveloper (1)(5).docx`. Experience has been condensed for recruiter scanning without adding outcomes. The supplied Candidate Portfolio GitHub Setup Guide informed the structure. The supplied visual reference informed typography and portrait placement. The photograph is the original uploaded JPEG, displayed with CSS cropping only.
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **LLM & RAG-Based Knowledge Assistant** | Proof-of-concept AI assistant using retrieval-augmented generation to answer domain-specific questions from structured/unstructured data | LangChain, Vector Search, Prompt Engineering | [Repo](https://github.com/Varun-2009/llm-rag-knowledge-assistant) |
-| **Healthcare Data Quality & ML-Ready Datasets** | Validation and reconciliation workflows to identify missing/duplicate records and prepare analytics-ready healthcare datasets | SQL, dbt, Snowflake, PySpark | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/healthcare-data-quality-pipeline) |
-| **Alzheimer's MRI Diagnosis Research** | Graduate research project applying deep learning to MRI scan data for diagnostic decision-support | Python, Deep Learning, Image Preprocessing | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/alzheimers-mri-diagnosis-cnn) |
-| **Retail Streaming Data Pipeline** | Batch and streaming pipelines for retail analytics with automated ingestion and monitoring | Kafka, Airflow, PySpark, Snowflake | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/retail-streaming-pipeline-kafka-airflow) |
-| **AI Diabetes Risk Dashboard** | Synthetic-data ML dashboard with imbalance handling, leakage-safe preprocessing, threshold tuning, explainability, and monitoring | Streamlit, Scikit-learn, Plotly | [Repo](https://github.com/Varun-2009/varunkandukuri.github.io/tree/main/projects/ai-diabetes-risk-dashboard) |
-
-
----
-
-## 📜 Certifications
-
-- AWS Certified Data Engineer – Associate
-- Databricks Certified Data Engineer Associate
-- Microsoft Azure Data Engineer Associate – DP-203
-- Snowflake SnowPro Core Certification
-- Databricks Generative AI Certification
-
----
-
-## 📄 Resume
-
-[📥 Download my Resume (PDF)](https://github.com/Varun-2009/Resume/blob/main/Varun_Kandukuri_Resume.pdf)
-
----
-
-## 📬 Contact
-
-- **Email:** kvarunkandukuri9@gmail.com
-- **LinkedIn:** [linkedin.com/in/varun-kumar-kandukuri-3785932b9](https://www.linkedin.com/in/varun-kumar-kandukuri-3785932b9/)
-- **Portfolio:** [varunkandukuri.github.io](https://varun-2009.github.io/varunkandukuri.github.io/)Personal portfolio site  AI/ML Data Engineer specializing in Python, PySpark, Databricks, and Snowflake. Built with HTML/CSS.
+No certifications or additional projects are listed because none were supplied. No email form is included because a static site has no message-delivery backend. The files are prepared for the connected GitHub repository above. Confirm the deployment status in Settings → Pages.
